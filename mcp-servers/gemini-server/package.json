@@ -1,0 +1,25 @@
+{
+  "name": "gemini-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server封装Gemini CLI，专注代码审查，支持conversationId上下文传递",
+  "main": "index.js",
+  "bin": {
+    "gemini-mcp-server": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mcp",
+    "gemini",
+    "claude",
+    "code-review",
+    "ai-orchestration"
+  ],
+  "author": "老金",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

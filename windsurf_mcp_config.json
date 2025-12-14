@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "paddleocr-ocr": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "paddleocr-mcp@https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/mcp/paddleocr_mcp/releases/v0.2.0/paddleocr_mcp-0.2.0-py3-none-any.whl",
+        "paddleocr_mcp"
+      ],
+      "env": {
+        "PADDLEOCR_MCP_PIPELINE": "OCR",
+        "PADDLEOCR_MCP_PPOCR_SOURCE": "aistudio",
+        "PADDLEOCR_MCP_SERVER_URL": "https://p3qct3d3v8j499xd.aistudio-app.com/ocr",
+        "PADDLEOCR_MCP_AISTUDIO_ACCESS_TOKEN": "e40cce1543eb1e482ba01e530444a8304b484512"
+      }
+    },
+    "paddleocr-structure": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "paddleocr-mcp@https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/mcp/paddleocr_mcp/releases/v0.2.0/paddleocr_mcp-0.2.0-py3-none-any.whl",
+        "paddleocr_mcp"
+      ],
+      "env": {
+        "PADDLEOCR_MCP_PIPELINE": "PP-StructureV3",
+        "PADDLEOCR_MCP_PPOCR_SOURCE": "aistudio",
+        "PADDLEOCR_MCP_SERVER_URL": "https://8153c8vf16n6dcwa.aistudio-app.com/layout-parsing",
+        "PADDLEOCR_MCP_AISTUDIO_ACCESS_TOKEN": "e40cce1543eb1e482ba01e530444a8304b484512"
+      }
+    },
+    "mcp-memory-service": {
+      "serverUrl": "http://127.0.0.1:8001/mcp"
+    },
+    "Gemini-MCP-XHZJ": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\22257\\Desktop\\project\\Gemini-MCP-XHZJ\\mcp-servers\\gemini-server\\index.js"
+      ],
+      "env": {
+        "HTTP_PROXY": "http://127.0.0.1:7890",
+        "HTTPS_PROXY": "http://127.0.0.1:7890",
+        "GEMINI_IDE_INTEGRATION": "false",
+        "BROWSER": "echo",
+        "GEMINI_CLI_SUPPRESS_BROWSER": "true"
+      }
+    }
+  }
+}
