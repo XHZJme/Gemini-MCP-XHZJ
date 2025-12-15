@@ -10,6 +10,18 @@
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
   [![Node](https://img.shields.io/badge/Node.js-≥14.0.0-green.svg)](https://nodejs.org/)
   
+  <br/>
+  
+  ### � 欢迎交流
+  
+  <img src="wechat-work-qr.jpg" alt="企业微信" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="wechat-official-qr.jpg" alt="微信公众号" width="150" />
+  
+  <sub>企业微信</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>微信公众号</sub>
+  
 </div>
 
 ---
