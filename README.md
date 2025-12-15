@@ -5,22 +5,29 @@
   
   🚀 让 Windsurf AI IDE 调用 Google Gemini，每日 1000 次免费额度！
   
-  专门适配 **Windsurf AI IDE** 的 Gemini MCP 服务。
+  **专门适配 Windsurf AI IDE 的 Gemini MCP 服务。**
   
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
   [![Node](https://img.shields.io/badge/Node.js-≥14.0.0-green.svg)](https://nodejs.org/)
   
   <br/>
   
-  ### � 欢迎交流
+  **欢迎交流**
   
-  <img src="wechat-work-qr.jpg" alt="企业微信" width="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="wechat-official-qr.jpg" alt="微信公众号" width="150" />
-  
-  <sub>企业微信</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>微信公众号</sub>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="wechat-work-qr.jpg" alt="企业微信" height="200" />
+        <br/>
+        企业微信
+      </td>
+      <td align="center">
+        <img src="wechat-official-qr.jpg" alt="微信公众号" height="200" />
+        <br/>
+        微信公众号
+      </td>
+    </tr>
+  </table>
   
 </div>
 
