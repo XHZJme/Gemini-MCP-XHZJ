@@ -216,8 +216,8 @@ npm install -g @google/gemini-cli
 
 ## 🙏 致谢
 
-- **老金** - 原项目 Claudecode-Codex-Gemini 作者
-- **Google Gemini** - 提供强大的 AI 能力
+- **老金** - 本项目基于 Claudecode-Codex-Gemini 二次开发
+- **Google Gemini** - 提供 cli 工具 和 强大的模型能力
 
 ---
 
