@@ -12,19 +12,19 @@
   
   <br/>
   
-  **欢迎交流**
+  ### 👋 交流学习
   
   <table>
     <tr>
       <td align="center">
         <img src="wechat-work-qr.jpg" alt="企业微信" height="200" />
         <br/>
-        企业微信
+        <b>加我好友</b>
       </td>
       <td align="center">
         <img src="wechat-official-qr.jpg" alt="微信公众号" height="200" />
         <br/>
-        微信公众号
+        <b>欢迎关注</b>
       </td>
     </tr>
   </table>
